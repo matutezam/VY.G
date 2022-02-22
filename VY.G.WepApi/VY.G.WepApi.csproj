@@ -12,4 +12,8 @@
     <ProjectReference Include="..\VY.G.Business.Impl\VY.G.Business.Impl.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>

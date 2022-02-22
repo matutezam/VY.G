@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <Folder Include="Extensions\" />
+    <Folder Include="MappingProfiles\" />
     <Folder Include="Validations\" />
     <Folder Include="Services\" />
   </ItemGroup>

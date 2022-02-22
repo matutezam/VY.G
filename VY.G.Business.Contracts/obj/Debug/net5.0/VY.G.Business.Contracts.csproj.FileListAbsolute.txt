@@ -1,0 +1,15 @@
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\bin\Debug\net5.0\VY.G.Business.Contracts.deps.json
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\bin\Debug\net5.0\VY.G.Business.Contracts.dll
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\bin\Debug\net5.0\VY.G.Business.Contracts.pdb
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\bin\Debug\net5.0\VY.G.Dtos.dll
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\bin\Debug\net5.0\VY.G.Dtos.pdb
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\VY.G.Business.Contracts.csproj.AssemblyReference.cache
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\VY.G.Business.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\VY.G.Business.Contracts.AssemblyInfoInputs.cache
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\VY.G.Business.Contracts.AssemblyInfo.cs
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\VY.G.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\VY.G.Business.Contracts.csproj.CopyComplete
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\VY.G.Business.Contracts.dll
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\refint\VY.G.Business.Contracts.dll
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\VY.G.Business.Contracts.pdb
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Business.Contracts\obj\Debug\net5.0\ref\VY.G.Business.Contracts.dll

@@ -10,8 +10,6 @@
 
   <ItemGroup>
     <Folder Include="Domain\" />
-    <Folder Include="Validations\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>

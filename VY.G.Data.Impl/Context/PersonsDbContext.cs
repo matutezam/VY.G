@@ -1,17 +1,15 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using VY.G.Data.Contracts.Entities;
 
 namespace VY.G.Data.Impl.Context
 {
     public class PersonsDbContext : DbContext
     {
-        public PersonsDbContext()
+        public PersonsDbContext(DbContextOptions<PersonsDbContext> options) : base(options)
         {
-            
+
         }
+
+        public DbSet<PersonEntity> People { get; set; }
     }
 }

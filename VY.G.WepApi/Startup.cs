@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using VY.G.Business.Impl.MappingProfiles;
 
 namespace VY.G.WepApi
 {
@@ -19,12 +20,14 @@ namespace VY.G.WepApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddMvc();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "VY.G.WepApi", Version = "v1" });
             });
+
+            services.AddAutoMapper(typeof(PersonProfile));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

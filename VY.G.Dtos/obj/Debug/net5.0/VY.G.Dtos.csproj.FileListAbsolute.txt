@@ -1,0 +1,12 @@
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\bin\Debug\net5.0\VY.G.Dtos.deps.json
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\bin\Debug\net5.0\VY.G.Dtos.dll
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\bin\Debug\net5.0\VY.G.Dtos.pdb
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\obj\Debug\net5.0\VY.G.Dtos.csproj.AssemblyReference.cache
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\obj\Debug\net5.0\VY.G.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\obj\Debug\net5.0\VY.G.Dtos.AssemblyInfoInputs.cache
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\obj\Debug\net5.0\VY.G.Dtos.AssemblyInfo.cs
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\obj\Debug\net5.0\VY.G.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\obj\Debug\net5.0\VY.G.Dtos.dll
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\obj\Debug\net5.0\refint\VY.G.Dtos.dll
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\obj\Debug\net5.0\VY.G.Dtos.pdb
+C:\Users\MatiasZamorano\source\repos\VY.G\VY.G.Dtos\obj\Debug\net5.0\ref\VY.G.Dtos.dll

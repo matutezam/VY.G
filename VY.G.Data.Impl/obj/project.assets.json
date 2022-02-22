@@ -5836,6 +5836,7 @@
       "Microsoft.EntityFrameworkCore.InMemory >= 5.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.14",
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 5.0.0",
       "VY.G.Data.Contracts >= 1.0.0"
     ]
   },
@@ -5906,6 +5907,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[5.0.14, )"
+          },
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[5.0.0, )"
           }
         },
         "imports": [

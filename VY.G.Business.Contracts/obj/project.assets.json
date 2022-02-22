@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "VY.G.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/VY.G.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VY.G.Dtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VY.G.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../VY.G.Dtos/VY.G.Dtos.csproj",
+      "msbuildProject": "../VY.G.Dtos/VY.G.Dtos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "VY.G.Dtos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MatiasZamorano\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MatiasZamorano\\source\\repos\\VY.G\\VY.G.Business.Contracts\\VY.G.Business.Contracts.csproj",
+      "projectName": "VY.G.Business.Contracts",
+      "projectPath": "C:\\Users\\MatiasZamorano\\source\\repos\\VY.G\\VY.G.Business.Contracts\\VY.G.Business.Contracts.csproj",
+      "packagesPath": "C:\\Users\\MatiasZamorano\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MatiasZamorano\\source\\repos\\VY.G\\VY.G.Business.Contracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\MatiasZamorano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\MatiasZamorano\\source\\repos\\VY.G\\VY.G.Dtos\\VY.G.Dtos.csproj": {
+              "projectPath": "C:\\Users\\MatiasZamorano\\source\\repos\\VY.G\\VY.G.Dtos\\VY.G.Dtos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

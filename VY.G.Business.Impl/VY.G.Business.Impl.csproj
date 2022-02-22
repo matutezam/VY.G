@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VY.G.Business.Contracts\VY.G.Business.Contracts.csproj" />
+    <ProjectReference Include="..\VY.G.Data.Impl\VY.G.Data.Impl.csproj" />
+    <ProjectReference Include="..\VY.G.Dtos\VY.G.Dtos.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+    <Folder Include="Validations\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>

@@ -13,6 +13,5 @@ namespace VY.G.Data.Impl.Context
         {
             
         }
-
     }
 }
